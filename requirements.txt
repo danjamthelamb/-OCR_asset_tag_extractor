@@ -1,0 +1,6 @@
+jsonpatch==1.33
+jsonpointer==3.0.0
+paddleocr==3.0.1
+paddlepaddle==3.0.0
+paddlex==3.0.1
+pillow==11.2.1
